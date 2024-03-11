@@ -1,0 +1,1 @@
+The photos are not from the actual dataset. Created to show how data is classified. (Supervised Learning)
